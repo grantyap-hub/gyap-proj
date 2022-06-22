@@ -1,0 +1,5 @@
+From Dynamic Programming course on Youtube by freeCodeCamp.org. Takes apart what I viewed to be 2 medium problems (bestSum and
+
+allConstruct) in a slow and methodical pace to represent and teach memoization (recursion) and tabulation (iteration). 
+
+Plan to add more time complexity and space complexity analysis in comments of methods at a later date.
